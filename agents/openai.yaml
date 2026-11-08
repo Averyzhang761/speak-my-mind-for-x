@@ -1,0 +1,4 @@
+interface:
+  display_name: "Speak My Mind for X"
+  short_description: "Turn passing thoughts into natural, X-ready drafts"
+  default_prompt: "Use $speak-my-mind-for-x to turn this raw thought into one natural X draft without inventing a stronger conclusion."
